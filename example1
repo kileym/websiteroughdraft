@@ -1,0 +1,61 @@
+<!doctype html>
+<head>
+    <style type="text/css">
+     body { color: #63d4ce; }
+        h1, h2, h3 {
+color:darkred;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+        selector { property:value; }
+
+selector { property:value; }
+        li { margin-bottom: 12px; }
+        .decoratetext {color: #f6b33e }
+        .wrapper {
+width: 600px;
+background: #FFFFFF;
+margin-left: auto;
+margin-right: auto;
+}        
+</style>
+</head>
+<body>
+    background-image: url("bg.jpg");
+    <div class="wrapper">
+    <address class="decoratetext">
+<address>
+<br>Leslie Brower</br>
+<br>1584 Boulder St</br>
+<br>Boulder, CO 80000</br>
+<br>555-555-1212</br>
+l.brower@theemailaddress.com
+</address>
+<img src="woman.jpg" alt="woman on purple background">
+<h2>Objective</h2>
+<p>I possess a moderate educatin but willing to learn more.</p>
+<p>Have repeated courses repeatedly</p>
+<p>High School was an awesome experience!</p>
+<ul>
+<li>Fluent in English.</li>
+<li>Also I have been heard muttering Gibberish in my sleep.</li> <li>Extensive experience with foreign accents.</li>
+<li>First runner-up for Miss Fort Worth, 1982.</li>
+<li>Have not yet been abducted by aliens Twin sister has accounting degree Speak English and Spinach </li>
+</ul>
+<h3>Sales Manager, January 2007 - Present</h3>
+<p>Atmos Energy Corporation, Dallas, TX</p>
+<ul>
+<li>Worked in a sales office where I carried out my own accountant</li>
+<li>Provided Custer Service</li>
+<li>Brought in balloon artist to entertain office</li>
+<li>Because a Notary </li>
+</ul>
+<h3>Republic Sales Officer, March 2004 - December 2006</h3>
+<p>Ashland, Inc, Covington, Kentucky</p>
+<ul>
+<li>Answer phones, file papers, respond to customer e-mails, take odors</li>
+<li>Demonstrated ability in multi-tasting</li>
+<li>Reason for leaving: I thought the world was coming to an end. </li>
+</ul>
+</div>
+</body>
+</html>
